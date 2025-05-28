@@ -69,7 +69,7 @@ LLaVA/
 │   └── llava-v1.5-7b
 ```
 
-## Training through STL framework
+## 🚀 Training through STL framework
 
 This guide describes how to run the **See-Think-Learn (STL)** self-training pipeline on various domains of the **M3CoT** dataset using the `ours.sh` script.
 
