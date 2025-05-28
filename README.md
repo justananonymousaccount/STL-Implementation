@@ -61,11 +61,11 @@ All experiments were conducted on a single NVIDIA A6000 GPU (48GB VRAM) using CU
 Download the LLaVA-v1.5-7B .zip file from the provided Google Drive link.
 👉 [Download from Google Drive](https://drive.google.com/drive/folders/1hS2nfKXMhsBy8DmrMP7IytcmT-g6bI1K?usp=sharing)
 
-Once downloaded, extract the content and place it inside the model/ folder within the LLaVA directory:
+Once downloaded, extract the content and place it inside the models/ folder within the LLaVA directory:
 
 ```sh
 LLaVA/
-├── model/
+├── models/
 │   └── llava-v1.5-7b
 ```
 
