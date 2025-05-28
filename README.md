@@ -3,7 +3,7 @@ Implementation of See-Think-Learn (STL) Self-Training Framework for Multimodal L
 
 ## 🛠️ Setup Instructions
 
-To run this STL implementation, follow these steps:
+To setup the environment, follow these steps:
 
 ### 1. Clone the LLaVA Repository
 
