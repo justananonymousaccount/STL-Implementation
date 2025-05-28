@@ -20,7 +20,7 @@ Place the following folders into the cloned LLaVA directory:
 
 - `stl/` — contains the STL training logic and scripts.
 - `playground/data/folder/` — contains the data files (`questions`, `answers`, etc.).
-- `scripts/` — contains bash scripts for traning and inference
+- `scripts/` — contains bash scripts for training and inference
 
 Make sure to add the images from the [M3CoT](https://github.com/LightChen233/M3CoT) to the `playground/data/m3cot/images/` folder inside your cloned LLaVA directory.
 
