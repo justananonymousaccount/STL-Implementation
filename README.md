@@ -50,7 +50,7 @@ export LD_LIBRARY_PATH=/your/cuda/path/lib64:$LD_LIBRARY_PATH
 Run the script 
 
 ```sh
-sh scripts/start.sh
+bash scripts/start.sh
 ```
 
 All experiments were conducted on a single NVIDIA A6000 GPU (48GB VRAM) using CUDA 12.4. Further, xformers implementation is used for Lora finetuning instead of flash-attention.
